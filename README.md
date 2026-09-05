@@ -1,9 +1,9 @@
- ### About
- 
-I started to be interested in technology as a child. My first contact was with a computer I had at home that I used to play and read. I got interested in programming because of game development, and web development seemed like a good way to get into the world of programming. I chose the Computer Engineering course because I've always been interested in taking an engineering course, and I always liked to play games and use the computer, so I thought it would combine two things I like. In my spare time, I like to read, play games and ride horses. 
- 
- 
- ### Front-end
+### About
+
+I started to be interested in technology as a child. My first contact was with a computer I had at home that I used to play and read. I got interested in programming because of game development, and web development seemed like a good way to get into the world of programming. I chose the Computer Engineering course because I've always been interested in taking an engineering course, and I always liked to play games and use the computer, so I thought it would combine two things I like. In my spare time, I like to read, play games and ride horses.
+
+
+### Front-end
 
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -12,11 +12,16 @@ I started to be interested in technology as a child. My first contact was with a
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-  
+
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
- 
+
+### Mobile
+
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
 ### Back-end
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -25,8 +30,10 @@ I started to be interested in technology as a child. My first contact was with a
 
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools
@@ -37,12 +44,9 @@ I started to be interested in technology as a child. My first contact was with a
 
 ### Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/joão-alfredo-tamagno-09446614b/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](joaotamagno@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaoalfredotamagno/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joaotamagno@gmail.com)
 
 
 <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Audamon&count_private=true&theme=radical" height="400" />
 <img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Audamon&show_icons=true&layout=compact&theme=radical" height="400" width="345"/>
-
-
-
