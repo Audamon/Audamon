@@ -48,5 +48,5 @@ I started to be interested in technology as a child. My first contact was with a
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joaotamagno@gmail.com)
 
 
-<img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Audamon&count_private=true&theme=radical" height="400" />
-<img height="140em" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Audamon&show_icons=true&layout=compact&theme=radical" height="400" width="345"/>
+<img height="140em" align="center" alt="stats" src="https://github-stats-extended.vercel.app/api?username=Audamon&count_private=true&theme=radical" height="400" />
+<img height="140em" align="center" alt="stats" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Audamon&show_icons=true&layout=compact&theme=radical" height="400" width="345"/>
